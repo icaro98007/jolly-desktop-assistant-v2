@@ -1,6 +1,18 @@
-﻿__pycache__/
-*.pyc
-*.pyo
-.env
-.vscode/
+__pycache__/
+*.py[cod]
 *.log
+.env
+venv/
+.venv/
+piper/*.onnx
+piper/*.json
+piper/*.exe
+piper/*.dll
+*.wav
+*.mp3
+voces/
+*.bak*
+docker-compose.yml
+
+Jolly Desktop Assistant v2 (14B GPU).json
+jolly_workflow.json

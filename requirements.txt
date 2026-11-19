@@ -1,0 +1,7 @@
+requests
+numpy
+sounddevice
+faster-whisper
+keyboard
+mss
+Pillow
